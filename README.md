@@ -5,8 +5,8 @@ Behavior-driven development and automated testing of web applications by leverag
 ## IMPORTANT FEATURES
 
 Gherkin Syntax: 
-    * Gherkin provides a structured language for describing test scenarios using keywords such as Given, When, Then, And, and But. 
-    * This syntax makes test scenarios easily understandable by both technical and non-technical team members, facilitating clear and concise test case documentation.
+   * Gherkin provides a structured language for describing test scenarios using keywords such as Given, When, Then, And, and But. 
+   * This syntax makes test scenarios easily understandable by both technical and non-technical team members, facilitating clear and concise test case documentation.
     
 Reusability: 
     * Cucumber encourages reusability by promoting the creation of reusable step definitions and page objects. 
